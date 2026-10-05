@@ -1,0 +1,11 @@
+Step 1 - 
+Open Powershell In The File You Extracted
+
+Step 2- 
+Run the Next Commands  
+
+Command 1-
+Set-ExecutionPolicy -Scope Process Bypass 
+
+Command 2-
+.\batteryCheck.ps1
